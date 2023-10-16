@@ -1,7 +1,7 @@
 # sport_sql
 # Project Overview: Analyzing Online Sports Clothing Sales
 
-This project dives into the product data of an online sports clothing company with the aim to identify strategies for revenue improvement. The analyses cover a range of aspects including pricing, reviews, discounts, and product descriptions. The database is organized across several tables such as `info`, `finance`, `reviews`, `traffic`, and `brands` each containing different types of data related to the products.
+This project dives into the product data of an online sports clothing company with the aim to identify strategies for revenue improvement. The analyses cover a range of aspects including pricing, reviews, discounts, and product descriptions. The database is organized across several tables such as `info`, `finance`, `reviews`, `traffic`, and `brands` each containing different types of data related to the products. 
 
 ## Key Findings:
 
@@ -27,7 +27,7 @@ This project dives into the product data of an online sports clothing company wi
    - Clothing products have a lower median revenue of $503.82.
 
 7. **Visualization**:
-   - A visualization has been created on Looker to further illustrate these findings.
+   - A visualization has been created on Looker: https://lookerstudio.google.com/reporting/b72a91b1-a054-4ef0-96da-93c268e0d76d
 
 ## Recommendations:
 
